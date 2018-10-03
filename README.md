@@ -21,3 +21,28 @@ Developer users have access to read API keys and SMTP credentials so they can co
 ## Admin: 
 
 Admin users have full access to the account. They can add and remove dashboard users, manage credentials, and do everything a Developer user can do. In other words, they can do everything.
+
+
+
+# sort
+
+ 1) Accounts Payable
+ 2) Accounts Receivables
+ 3) Administrator
+ 4) Cashier
+ 5) Credit Manager
+ 6) Fulfillment
+ 7) Grower Company
+ 8) Grower Production
+ 9) Inventory
+ 10) Procurement Manager
+ 11) Procurement User
+ 12) Quality Control
+ 13) Reports
+ 14) Sales
+ 15) Sales-Allocations
+ 16) Sales Manager
+ 17) Setup
+ 18) Shipping
+ 19) Scanner
+ 20) Tracking
