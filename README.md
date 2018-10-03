@@ -46,3 +46,72 @@ Admin users have full access to the account. They can add and remove dashboard u
  18) Shipping
  19) Scanner
  20) Tracking
+
+
+
+# Other
+
+Administrators
+
+Admins are the employees who can manage the User list as well as the admin rights of the account. In addition to the User List, they also manage Company Settings, Integrations and Billing.
+
+Who they are: IT, Interns
+
+Their rights:
+
+Add and Remove Users in the account
+Create and Manage Attributes
+Send reminders to Inactive Users
+Create, modify or delete groups
+Edit Company Settings (survey frequency, branding, company logo, manager permissions, etc)
+Configure and Manage Integrations
+Access to Billing information
+To add someone as an Admin, you can follow these steps: Manage - Users - Edit - Go to the Roles & Groups tab - Toggle ''Is Administrator' to the right and click on Update User.
+
+Company Managers
+
+Company Managers are the ones who would see all Reports and Feedback from all groups without having to manage the account, however have the ability if they wish to.
+
+Who they are : CEO, SVP, HR Managers
+
+Their rights: 
+
+View, edit and update Attributes
+Send reminders to Inactive Users
+Create, modify or delete groups
+Access to all the Reports
+Review and reply to all employee Feedback
+Create Polls and send them to all groups
+Receive a weekly Engagement Report
+Access to the Improve section (ideas, suggestions, content, activities)
+To add someone as a Company Manager, you can follow these steps: Manage - Users - Edit - Go to the Roles & Groups tab - Toggle ''Is Company Manager' to the right and click on Update User.
+
+Note: If an employee needs the access rights that both the Administrator and Company Manager roles provide, both roles need to be toggled to On in the User's Profile.
+
+Group Managers
+
+Group Managers are the employees who would only see Reports and Feedback from groups they manage.
+
+Who they are: Team Managers, Directors, Office Managers
+
+Their rights:
+
+Access to the All Company Report
+Access to the Reports for the group(s) they manage
+Send reminders to Inactive Users 
+Review and reply to employee Feedback
+Create Polls and send them to their group(s)
+Receive a weekly Engagement Report for the group(s) they manage
+Invite existing employees to the group(s) they manage
+Access to the Improve section (ideas, suggestions, content, activities)
+To add someone as an Group Manager, you can follow these steps: Manage - Users - Edit - Go to the Roles & Groups tab - check the box under the Manager column for the groups the employee should manage and click on Update User.
+
+Employees
+
+Everyone gets added as an employee when they first join Officevibe. You can modify their permissions at any time to give them access to more features. 
+
+Their rights:
+
+Access the activities (FaceGame, Weekly Questions, PraiseGame)
+Have access to their own Feedback and Manager replies
+Access to the Suggestion Box
