@@ -115,3 +115,9 @@ Their rights:
 Access the activities (FaceGame, Weekly Questions, PraiseGame)
 Have access to their own Feedback and Manager replies
 Access to the Suggestion Box
+
+
+
+# see also
+
+https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-assign-admin-roles
