@@ -116,7 +116,22 @@ Access the activities (FaceGame, Weekly Questions, PraiseGame)
 Have access to their own Feedback and Manager replies
 Access to the Suggestion Box
 
+# Sec
 
+Security analyst
+Analyzes and assesses vulnerabilities in the infrastructure (software, hardware, networks), investigates using available tools and countermeasures to remedy the detected vulnerabilities, and recommends solutions and best practices. Analyzes and assesses damage to the data/infrastructure as a result of security incidents, examines available recovery tools and processes, and recommends solutions. Tests for compliance with security policies and procedures. May assist in the creation, implementation, or management of security solutions.
+Security engineer
+Performs security monitoring, security and data/logs analysis, and forensic analysis, to detect security incidents, and mounts the incident response. Investigates and utilizes new technologies and processes to enhance security capabilities and implement improvements. May also review code or perform other security engineering methodologies.
+Security architect
+Designs a security system or major components of a security system, and may head a security design team building a new security system.
+Security administrator
+Installs and manages organization-wide security systems. May also take on some of the tasks of a security analyst in smaller organizations.
+Chief Information Security Officer (CISO)
+A high-level management position responsible for the entire information security division/staff. The position may include hands-on technical work.
+Chief Security Officer (CSO)
+A high-level management position responsible for the entire security division/staff. A newer position now deemed needed as security risks grow.
+Security Consultant/Specialist/Intelligence
+Broad titles that encompass any one or all of the other roles or titles tasked with protecting computers, networks, software, data or information systems against viruses, worms, spyware, malware, intrusion detection, unauthorized access, denial-of-service attacks, and an ever increasing list of attacks by hackers acting as individuals or as part of organized crime or foreign governments.
 
 # see also
 
