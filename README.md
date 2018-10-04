@@ -136,3 +136,16 @@ Broad titles that encompass any one or all of the other roles or titles tasked w
 # see also
 
 https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-assign-admin-roles
+
+# O1
+
+Comply with infosec related regulations including PCI, HIPAA, FedRAMP, and GDPR.
+Pass your SOC/ISO audits with ease.
+
+Bastions isolates critical infrastructure. Minimize attack vectors by having fewer entry points and moving parts.
+cloud_circle Control access on a cluster level for hybrid infrastructure across public cloud, private cloud and on-premise.
+assignment_indRole-Based Access Control (RBAC) using existing identity management solutions - SAML, Okta, 0Auth, OpenID Connect, Auth2, Active Directory, etc.
+securityShort-lived certs for authorization. No keys, VPNs, firewalls, jump boxes, or IPs to manage.
+view_comfyEasily manage trust between clusters to manage privileged access across your teams and infrastructure footprint.
+tuneUse dynamic labels so that access follows workloads that can move across dynamic infrastructure.
+settings_input_componentNative integration with Kubernetes RBAC for cloud-native environments.
